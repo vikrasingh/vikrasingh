@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Vikram Singh, currently a Visiting Faculty in the Department of Mathematics and Statistics at the University of Central Oklahoma. My research interests lie in global optimization. Specifically, I am interested in problems with sparsity constraints.
+- 👀 I’m interested in quadratic optimization, branch-and-bound methods, and heuristics to solve nonconvex problems. 
+<!---
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--->
+<!---
+vikrasingh/vikrasingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
