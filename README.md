@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Vikram Singh, <!--- currently a Lecturer of Mathematics at Texas A&M University- Texarkana. My---> my research interests lie in global optimization. Specifically, I am interested in problems with sparsity constraints.
+- 👋 Hi, I’m Vikram Singh, my research interests lie in global optimization. Specifically, I am interested in problems with sparsity constraints.
 - 👀 I’m interested in quadratic optimization, branch-and-bound methods, and heuristics to solve nonconvex problems. 
 <!---
+currently a Lecturer of Mathematics at Texas A&M University- Texarkana.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
